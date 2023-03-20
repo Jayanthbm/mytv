@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mytv/static/css/main.a1216931.css",
+    "main.js": "/mytv/static/js/main.bea54307.js",
+    "index.html": "/mytv/index.html",
+    "main.a1216931.css.map": "/mytv/static/css/main.a1216931.css.map",
+    "main.bea54307.js.map": "/mytv/static/js/main.bea54307.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1216931.css",
+    "static/js/main.bea54307.js"
+  ]
+}
